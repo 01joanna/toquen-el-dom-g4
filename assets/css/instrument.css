@@ -39,7 +39,7 @@ main h2 {
     cursor: pointer;
 }
 
-.panfluteTubes .tube {
+.panfluteTubes .tube {          /* elemento tubo*/
     list-style: none;
     width: 5rem;
     border-radius: 4px;
