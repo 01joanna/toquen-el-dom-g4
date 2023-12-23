@@ -19,11 +19,5 @@ describe("Configuracion de test", () => {
       expect(h1).toBeInTheDocument();
     });
 
-    // it("H1 = Toquen el DOM", () => {
-    //   let document = dom.window.document;
-    //   let h1 = document.querySelector("h1");
-
-    //   expect(h1).toBe("<h1>TOQUEN EL DOM</h1>");
-    // })
-
+    
 })

@@ -25,7 +25,7 @@ export function handleKeyPress(event, audioFiles) {
   if (audioFiles[key]) {
     playAudio(key, audioFiles);
   } else {
-    console.error(`Elemento de audio no encontrado para la tecla: ${key}`);
+    alert(`Elemento de audio no encontrado para la tecla: ${key}`);
   }
 }
 
